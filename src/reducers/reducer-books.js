@@ -5,4 +5,4 @@ export default function() {
     { title: 'JS for dummies' },
     { title: 'ReactJS the V of MVC' },    
   ]
-}
+};
