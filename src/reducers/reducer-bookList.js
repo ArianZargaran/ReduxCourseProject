@@ -23,7 +23,7 @@ export default function () {
     },
     {
       title: 'De qué hablo cuando hablo de correr',
-      description: '',
+      description: 'En 1982, tras dejar el local de jazz que regentaba y decidir que, en adelante, se dedicaría exclusivamente a escribir, Haruki Murakami comenzó también a correr. Al año siguiente correría en solitario el trayecto que separa Atenas de Maratón, su bautizo en esta carrera clásica. ',
       rating: '',
       pages: '',
       price: ''
