@@ -24,16 +24,16 @@ export default function () {
     {
       title: 'De qué hablo cuando hablo de correr',
       description: 'En 1982, tras dejar el local de jazz que regentaba y decidir que, en adelante, se dedicaría exclusivamente a escribir, Haruki Murakami comenzó también a correr. Al año siguiente correría en solitario el trayecto que separa Atenas de Maratón, su bautizo en esta carrera clásica. ',
-      rating: '',
-      pages: '',
-      price: ''
+      rating: '* * *',
+      pages: '120',
+      price: '$4.99'
     },
     {
       title: 'Harry Potter y el Prisionero de Azkaban',
-      description: '',
-      rating: '',
-      pages: '',
-      price: ''
+      description: 'De la prisión de Azkaban se ha escapado un terrible villano, Sirius Black, un asesino en serie que fue cómplice de lord Voldemort y que, dicen los rumores, quiere vengarse de Harry por haber destruido a su maestro. ',
+      rating: '* * * * *',
+      pages: '325',
+      price: '$8.99'
     },
   ]);
 }

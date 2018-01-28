@@ -15,12 +15,12 @@ class BookDetail extends Component {
     return (
       <div>
         <hr />
-        <h1>Book details:</h1>
-        <h2>Title: {this.props.activeBook.title}</h2>
-        <h3>description: {this.props.activeBook.description}</h3>
-        <h4>* rating: {this.props.activeBook.rating}</h4>
-        <h5># pages: {this.props.activeBook.pages}</h5>        
-        <h6>price: {this.props.activeBook.price}</h6>
+        <h2>Book details:</h2>
+        <p>Title: {this.props.activeBook.title}</p>
+        <p>Description: {this.props.activeBook.description}</p>
+        <p>* rating: {this.props.activeBook.rating}</p>
+        <p># pages: {this.props.activeBook.pages}</p>        
+        <p>price: {this.props.activeBook.price}</p>
       </div>
     )
   }
